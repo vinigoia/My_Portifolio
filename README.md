@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner2.png" >
+</p>
+
 # Vinicius Goia
 <sub>*Solution in Python | Data Scientist*</sub>
 
