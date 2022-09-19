@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/author-viniciusgoia-red.svg)](https://www.linkedin.com/in/lucas-manesco) [![](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/)
+
 <p align="center">
   <img src="banner2.png" >
 </p>
