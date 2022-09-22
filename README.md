@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-viniciusgoia-red.svg)](https://www.linkedin.com/in/lucas-manesco) [![](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/)
+[![author](https://img.shields.io/badge/author-viniciusgoia-red.svg)](https://br.linkedin.com/in/vinicius-goia-75a403234) [![](https://img.shields.io/badge/python-blue.svg)](https://www.python.org/)
 
 <p align="center">
   <img src="banner2.png" >
