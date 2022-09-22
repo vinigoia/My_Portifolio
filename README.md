@@ -16,6 +16,7 @@ Combining this with creating solutions in Python, you can do anything to make th
 
 **Links:**
 * [LinkedIn](https://br.linkedin.com/in/vinicius-goia-75a403234)
+* [Instagram](https://www.instagram.com/viniciusgoia/)
 
 
 
