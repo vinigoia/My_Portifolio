@@ -23,4 +23,4 @@ Combining this with creating solutions in Python, you can do anything to make th
 ## Projects:
 
 * **Popular Music Analysis on TikTok in 2021:** https://bitlybr.com/RoSQl
-* **Analise-dos-Dados-do-Airbnb:** https://bitlybr.com/lgoBgO1
+* **Analise dos Dados do Airbnb:** https://bitlybr.com/lgoBgO1
