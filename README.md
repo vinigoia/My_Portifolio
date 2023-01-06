@@ -22,6 +22,7 @@ Combining this with creating solutions in Python, you can do anything to make th
 
 ## Projects:
 
-* **Popular Music Analysis on TikTok in 2021:** https://bitlybr.com/RoSQl
-* **Análise dos Dados do Airbnb:** https://bitlybr.com/lgoBgO1
+* **Modelos de Machine Learning para Detecção de Fraudes Bancárias:** https://bitlybr.com/aqkZ
 * **Análise Exploratória de Dados Relacionados ao COVID-19:** https://bitlybr.com/SZQ6w7W
+* **Análise dos Dados do Airbnb:** https://bitlybr.com/lgoBgO1
+* **Popular Music Analysis on TikTok in 2021:** https://bitlybr.com/RoSQl
