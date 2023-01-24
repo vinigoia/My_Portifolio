@@ -22,7 +22,9 @@ Combining this with creating solutions in Python, you can do anything to make th
 
 ## Projects:
 
+* **Modelo para Churn Prediction em uma Empresa de Telecomunicações:** https://bitlybr.com/f02Nn1F
 * **Modelos de Machine Learning para Detecção de Fraudes Bancárias:** https://bitlybr.com/aqkZ
 * **Análise Exploratória de Dados Relacionados ao COVID-19:** https://bitlybr.com/SZQ6w7W
 * **Análise dos Dados do Airbnb:** https://bitlybr.com/lgoBgO1
 * **Popular Music Analysis on TikTok in 2021:** https://bitlybr.com/RoSQl
+                                              
