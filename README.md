@@ -22,6 +22,7 @@ Combining this with creating solutions in Python, you can do anything to make th
 
 ## Projects:
 
+* **Pycaret - Modelo para Classificação de Saúde de Fetos:** https://bitlybr.com/HcIJo8H
 * **Pycaret - Modelo para Previsão de Custos de Seguro de Saúde:** https://bitlybr.com/pcEfi1
 * **Modelo para Churn Prediction em uma Empresa de Telecomunicações:** https://bitlybr.com/f02Nn1F
 * **Modelos de Machine Learning para Detecção de Fraudes Bancárias:** https://bitlybr.com/aqkZ
