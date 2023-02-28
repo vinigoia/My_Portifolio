@@ -22,6 +22,7 @@ Combining this with creating solutions in Python, you can do anything to make th
 
 ## Projects:
 
+* **Prophet - Modelo para Previsão de Demanda (Time Series):** https://bitlybr.com/cDGjI
 * **Pycaret - Modelo para Classificação de Saúde de Fetos:** https://bitlybr.com/HcIJo8H
 * **Pycaret - Modelo para Previsão de Custos de Seguro de Saúde:** https://bitlybr.com/pcEfi1
 * **Modelo para Churn Prediction em uma Empresa de Telecomunicações:** https://bitlybr.com/f02Nn1F
