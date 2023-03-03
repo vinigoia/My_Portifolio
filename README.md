@@ -22,12 +22,12 @@ Combining this with creating solutions in Python, you can do anything to make th
 
 ## Projects:
 
-* **Prophet - Modelo para Previsão de Demanda (Time Series):** https://bitlybr.com/cDGjI
-* **Pycaret - Modelo para Classificação de Saúde de Fetos:** https://bitlybr.com/HcIJo8H
-* **Pycaret - Modelo para Previsão de Custos de Seguro de Saúde:** https://bitlybr.com/pcEfi1
-* **Modelo para Churn Prediction em uma Empresa de Telecomunicações:** https://bitlybr.com/f02Nn1F
-* **Modelos de Machine Learning para Detecção de Fraudes Bancárias:** https://bitlybr.com/aqkZ
-* **Análise Exploratória de Dados Relacionados ao COVID-19:** https://bitlybr.com/SZQ6w7W
-* **Análise dos Dados do Airbnb:** https://bitlybr.com/lgoBgO1
-* **Popular Music Analysis on TikTok in 2021:** https://bitlybr.com/RoSQl
+* **Prophet - Modelo para Previsão de Demanda (Time Series):** [Link](https://github.com/vinigoia/MODELO-PARA-PREVISAO-DE-DEMANDA-TIME-SERIES-E-PROPHET)
+* **Pycaret - Modelo para Classificação de Saúde de Fetos:** [Link](https://github.com/vinigoia/MODELO-PARA-CLASSIFICACAO-DE-SAUDE-FETAL)
+* **Pycaret - Modelo para Previsão de Custos de Seguro de Saúde:** [Link](https://github.com/vinigoia/MODELO-PARA-PREVISAO-DE-CUSTOS-DE-SEGURO-DE-SAUDE)
+* **Modelo para Churn Prediction em uma Empresa de Telecomunicações:** [Link](https://github.com/vinigoia/MODELO-PARA-CHURN-PREDICTION-EM-EMPRESA-DE-TELECOMUNICACOES)
+* **Modelos de Machine Learning para Detecção de Fraudes Bancárias:** [Link](https://github.com/vinigoia/DETECCAO-DE-FRAUDES-BANCARIAS)
+* **Análise Exploratória de Dados Relacionados ao COVID-19:** [Link](https://github.com/vinigoia/Analise-de-Dados-do-COVID-19)
+* **Análise dos Dados do Airbnb:** [Link](https://github.com/vinigoia/Analise-dos-Dados-do-Airbnb)
+
                                               
