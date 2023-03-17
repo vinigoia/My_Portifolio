@@ -22,7 +22,7 @@ Combining this with creating solutions in Python, you can do anything to make th
 
 ## Projects:
 
-* **Modelo para Previsão de Risco de Crédito:** [Link](https://github.com/vinigoia/MODELO-PARA-AVALIACAO-DE-RISCO-DE-CREDITO)
+* **Modelo para Avaliação de Risco de Crédito:** [Link](https://github.com/vinigoia/MODELO-PARA-AVALIACAO-DE-RISCO-DE-CREDITO)
 * **Prophet - Modelo para Previsão de Demanda (Time Series):** [Link](https://github.com/vinigoia/MODELO-PARA-PREVISAO-DE-DEMANDA-TIME-SERIES-E-PROPHET)
 * **Pycaret - Modelo para Classificação de Saúde de Fetos:** [Link](https://github.com/vinigoia/MODELO-PARA-CLASSIFICACAO-DE-SAUDE-FETAL)
 * **Pycaret - Modelo para Previsão de Custos de Seguro de Saúde:** [Link](https://github.com/vinigoia/MODELO-PARA-PREVISAO-DE-CUSTOS-DE-SEGURO-DE-SAUDE)
