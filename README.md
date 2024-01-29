@@ -7,9 +7,9 @@
 # Vinicius Goia
 <sub>*Soluções em Python para Visão Computacional*</sub>
 
-Sou um engenheiro mecatrônico apaixonado por tecnologia e inovação, com mais de dez anos de experiência em projetos multidisciplinares (elétrica, mecânica e automação). Atualmente, sou o CEO da Natural Engines, uma empresa que desenvolve aplicações na área de visão computacional, machine learning e data science, e que também mantém um blog destinado ao compartilhamento de conteúdo de tecnologia e engenharia.
+Sou engenheiro mecatrônico focado no desenvolvimento de soluções em Visão Computacional que envolvem detecção de objetos em tempo real, manipulação de imagens, reconhecimento facial e de gestos, dentre outras abordagens. Atualmente estou a frente da Natural Engines, empresa que aplica esses conceitos na elaboração de aplicações inteligentes e compartilha conhecimento através de um blog de tecnologia e engenharia.
 
-Meu objetivo é criar soluções que agreguem valor e eficiência aos setores que atendo, utilizando as ferramentas e os conhecimentos mais avançados do mercado. Possuo certificações em Python para Data Science e Machine Learning, além de experiência na programação de microcontroladores e na operação de softwares de desenhos 2D e 3D industriais. Sou um profissional comprometido, criativo, e que busca constantemente o aperfeiçoamento e a atualização de suas habilidades.
+Meu objetivo é, através de novas ferramentas e tecnologias, promover o desenvolvimento inteligente de soluções baseadas em Machine Learning e Inteligência Artificial, com visão macro dos processos envolvidos, minimizando impactos e desperdícios e, através da criatividade e comprometimento, alcançar os objetivos definidos.
 
 https://github.com/vinigoia/My_Portifolio/assets/112177509/dcfaf51e-f051-4ecb-a84d-cb4782307f76
 
