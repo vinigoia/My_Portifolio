@@ -5,22 +5,22 @@
 </p>
 
 # Vinicius Goia
-<sub>*Solution in Python | Computer Vision*</sub>
+<sub>*Soluções em Python para Visão Computacional*</sub>
 
-The degree in Mechatronics Engineering gave me multidisciplinary skills to see the whole process as a complete project, with each part doing its own work.
+Sou um engenheiro mecatrônico apaixonado por tecnologia e inovação, com mais de dez anos de experiência em projetos multidisciplinares (elétrica, mecânica e automação). Atualmente, sou o CEO da Natural Engines, uma empresa que desenvolve aplicações na área de visão computacional, machine learning e data science, e que também mantém um blog destinado ao compartilhamento de conteúdo de tecnologia e engenharia.
 
-Combining this with creating solutions in Python, you can do anything to make the world a better place.
+Meu objetivo é criar soluções que agreguem valor e eficiência aos setores que atendo, utilizando as ferramentas e os conhecimentos mais avançados do mercado. Possuo certificações em Python para Data Science e Machine Learning, além de experiência na programação de microcontroladores e na operação de softwares de desenhos 2D e 3D industriais. Sou um profissional comprometido, criativo, e que busca constantemente o aperfeiçoamento e a atualização de suas habilidades.
+
+https://github.com/vinigoia/My_Portifolio/assets/112177509/dcfaf51e-f051-4ecb-a84d-cb4782307f76
 
 
-**Background in:** Computer Vision, Python, Data Science
+**Background em:** Visão Computacional, Python, Data Science
 
 **Links:**
 * [LinkedIn](https://br.linkedin.com/in/vinicius-goia-75a403234)
 * [Blog](https://www.naturalengines.com)
 
-
-
-## Projects:
+## Projetos:
 
 * **Estimativa de Velocidade de Carros com YOLO:** [Link](https://www.naturalengines.com/post/estimativa-de-velocidade-de-carros-com-yolo)
 * **Treinamento de Modelo para Classificação de Imagens:** [Link](https://www.naturalengines.com/post/treinamento-de-modelo-para-classifica%C3%A7%C3%A3o-de-imagens)
